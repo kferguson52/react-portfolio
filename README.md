@@ -1,4 +1,3 @@
 # Reacto Portfolio
 
-I plan to come back in the future to utilize this for Salesforce related experiences. I also plan to come back and connect the backend. 
-
+This portfolio aims to capture project related work I've done through my experience through the Full Stack Bootcamp. Feel free to click through the related projects to get insights to the projects I've worked on.
