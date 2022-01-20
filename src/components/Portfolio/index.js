@@ -6,7 +6,10 @@ const Portfolio = () => {
 
   return (
     <section>
-      <h2>Photo Port</h2>
+      <h2>Projects</h2>
+      <div>
+          <a href="https://github.com/MERNerds/react-fest/">React Fest</a>
+      </div>
       <div>
           <a href="https://kferguson52.github.io/photo-port/">Photo Port Example React Portfolio</a>
       </div>
